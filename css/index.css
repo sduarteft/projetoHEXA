@@ -91,42 +91,17 @@ body{background-color: #ccc; }
 .ataque-um{margin-top: 200px; }
 .ataque-tres{margin-top: 200px; }
 
-footer .logo-opovo {
-    display: block;
-    background: url(https://especiais.opovo.com.br/images/imgs/pabllovittar/sprite.png) no-repeat -10px -177px;
-    width: 158px;
-    height: 20px;
-    margin-left: 30px;
-    margin-right: 0px;
-    float: left;
-   background-color: #006400;
-}
+
 
 
 }
-
-
-
-
-
-
-
 
 
 footer{
 	 background-color: #006400;
 
 }
-footer .logo-opovo {
-    display: block;
-    background: url(https://especiais.opovo.com.br/images/imgs/pabllovittar/sprite.png) no-repeat -10px -177px;
-    width: 158px;
-    height: 20px;
-    margin-left: 30px;
-    margin-right: 0px;
-    float: left;
-   background-color: #006400;
-}
+
 
 
 a {
